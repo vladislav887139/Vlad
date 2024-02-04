@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on TestPro<br>I'm currently learning more about Java<br>I'm looking to collaborate on WebFlow projects<br>I'm looking for VelocityX documentation<br>Ask me about any tech-related stuff<br>How to reach me: Instagram: dodmark2, Youtube: SenseiAqua<br>Fun fact: I'm Canadian/Russian <br>
+
 
 
 ## 🌐 Socials:
